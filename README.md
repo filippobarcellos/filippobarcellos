@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there! I'm Filippo. 👋
 
-<!--
-**filippobarcellos/filippobarcellos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer focused on build complex UI/UX applications using React and React Native. 💻✨
 
-Here are some ideas to get you started:
+I'm passionate about technology that improves lived experiences. As a professional developer I want to help create tools that make a real difference to real people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an advocate for inclusion, accessibility and diversity in all areas. Corporate efforts to remove internal opportunity barriers are super important, no question, but there's a whole big world outside of the workplace and there's a lot of work to be done there. Try to take it home.
+
+Aspects of work that I especially enjoy:
+- Solving technical problems
+- Designing elegant solutions
+- Continuous learning
+- Working closely with passionate people
+- Supporting & uplifting
+- Tech for good
+
